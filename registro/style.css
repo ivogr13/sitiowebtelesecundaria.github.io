@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: century gothic;
+    text-align: center;
+}
+
+.form-register {
+    padding: 50px 20px;
+    background-color: #382020a6;
+    margin: calc(25% + 100px);
+    margin-top: 70px;
+    padding-top: 19px;
+    margin-bottom: 30px;
+}
+
+.form-register h4 {
+    text-align: center;
+    padding: 10px;
+    color: rgb(250, 242, 242);
+    font-size: 45px;
+    margin-bottom: 15px;
+    font-family: "century gothic";
+}
+
+body {
+    background-image: url("/pagina/img/fondo.png");
+    background-size: 80%;
+    color: white;
+}
+
+.controls {
+    width: 100%;
+    background: #f3f3f3;
+    padding: 8px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #505353;
+    font-size: 18px;
+    color: rgb(27, 26, 26);
+}
+
+.form-register p {
+    height: 20px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 15px;
+}
+
+.form-register a {
+    color: rgb(247, 232, 232);
+    text-decoration: none;
+}
+
+.form-register a:hover {
+    color: rgb(27, 231, 221);
+    text-decoration: underline;
+}
+
+.form-register .botons {
+    width: 50%;
+    background: #48e;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 10px 0;
+    font-family: "century gothic";
+    font-size: 18px;
+}
+
+.btn {
+    color: #f1f7f7;
+    background: transparent;
+    border: 2px solid #8dd8d8;
+    border-radius: 6px;
+    margin: 0% 5%;
+    margin-top: 22px;
+    padding: 0px 20px;
+    line-height: 25pt;
+    font-family: 'century gothic';
+}
+
+.btn:hover {
+    background-color: #046b56;
+    color: white;
+}

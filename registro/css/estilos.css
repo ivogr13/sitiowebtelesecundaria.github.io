@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: century gothic;
+    text-align: center;
+    font-size: 50px;
+}
+
+.btn {
+    color: #f1f7f7;
+    background: transparent;
+    border: 2px solid #8dd8d8;
+    border-radius: 6px;
+    margin: 0% 5%;
+    margin-top: 22px;
+    padding: 0px 20px;
+    line-height: 50pt;
+    font-family: 'century gothic';
+}
+
+.btn:hover {
+    background-color: #50d6bb;
+    color: white;
+}
+
+body {
+    background-image: url("/pagina/img/ver.jpg");
+    background-size: 100%;
+    color: rgb(240, 233, 233);
+    line-height: 100pt;
+}
